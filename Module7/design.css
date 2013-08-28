@@ -1,0 +1,104 @@
+
+#found{
+  margin-top: 10px;
+ margin-left: 616px;
+ margin-bottom:0px;
+ margin-right:0px;
+ font-style: Italic;
+}
+body{
+background:-webkit-gradient(linear, 0% 0%, 130% 0%, from(#F5F5F5),to(white));
+margin: 25px;
+border-radius: 7pt;
+font-style:white;   
+}
+h3{
+border-radius: 7pt;
+   -webkit-flex: 1 6 20%;
+           flex: 1 6 20%;
+   -webkit-order: 1;
+           order: 1;
+border: solid 1px black;
+background:-webkit-gradient(linear, 120% 0%, 0% 120%, from(#8B0000),to(black));
+font: color:white;
+}
+#search_input{
+border-radius: 7pt;
+float:left;
+margin-top:80px;
+margin-left:50px;
+}
+#pic{
+position: absolute;
+top: 20px;
+left: 176px;
+}
+#pic1{
+position: absolute;
+top: 207px;
+left: 570px;
+}
+#pic2{
+position: absolute;
+top: 19px;
+left: 1037px;
+}
+
+#results{
+margin-left:10px;
+margin-right: 10px;
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 40px;
+
+}
+
+#results img{
+width:200px;
+height:300px;
+}
+span{
+margin-left:65px;
+
+}
+#searchForm{
+background-image:url('img/images.jpg');
+padding-right:20px;
+padding-left:20px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left:305px;
+margin-right:5px;
+position:relative;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+border-radius:10px;
+border: solid 1px black;
+width: 678px;
+height: 200px;
+
+}
+#submitButton{
+    background:-webkit-gradient(linear, 0% 0%, 0% 150%, from(#66CDAA),to(white));
+	border-radius: 7pt;
+    width:45px;
+    height:45px;
+    text-indent:-9999px;
+    overflow:hidden;
+    text-transform:uppercase;
+	float:right;
+    cursor:pointer;
+	margin-top:10px;
+	margin-bottom: 0px;
+	margin-left:0px;
+	margin-right: 60px;
+}
+h3{
+padding: 10px;
+}
+
+#send{
+margin-left:-144px;
+margin-top:115px;
+}
+
